@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+}
+
+.container {
+  height: 100%;
+}
+
+.content {
+  background: linear-gradient(to top left, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)), url(../img/the-witcher-404.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+}
+
+
+.card {
+  opacity: 0.7;
+}

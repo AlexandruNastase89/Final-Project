@@ -1,0 +1,20 @@
+.intro {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  background-color: #000000;
+  align-items: center;
+}
+
+.intro img {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+a {
+  position: fixed;
+  bottom: 100px;
+  right: 100px;
+}
